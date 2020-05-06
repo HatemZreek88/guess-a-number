@@ -1,0 +1,3 @@
+- Guess a number between 1 and 10.
+- 3 attempts.
+- HTML5 CSS3 javaScript.
